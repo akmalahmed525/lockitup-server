@@ -9,7 +9,7 @@
     "ajv": "^6.11.0",
     "debug": "~2.6.9",
     "env-cmd": "^10.0.1",
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "ip": "^1.1.5",
     "jsonwebtoken": "^8.5.1",
     "lock-system": "^2.0.0",
